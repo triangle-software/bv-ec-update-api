@@ -1,10 +1,12 @@
 {
-  "version": "2.0",
-  "downloadUrl": "https://www.minebbs.com/resources/easycontrol.13172/",
-  "changelog": [
-    "增强权限管理",
-    "优化了性能",
-    "修复了已知问题"
-  ],
-  "release_date": "2026-03-15"
+  "update" :{
+      "version": "2.0",
+      "downloadUrl": "https://www.minebbs.com/resources/easycontrol.13172/",
+      "changelog": [
+        "增强权限管理",
+        "优化了性能",
+        "修复了已知问题"
+      ],
+      "release_date": "2026-03-15"
+  }
 }
